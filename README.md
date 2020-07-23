@@ -4,7 +4,7 @@ The Print Plus Widget enhances and extends the AWAB Print Widget.
 
 ## Fork notes
 This widget is derived from the great [LarryStout/AWAB-Print-Plus-Widget9](https://github.com/LarryStout/AWAB-Print-Plus-Widget) and has been [TypeScript](https://www.typescriptlang.org/)ified by [Niklas Köhn](https://github.com/esride-nik).
-[Live Demo]: (https://esride.github.io/typescript-widget-templates/2d/)
+[Live Demo](https://esride.github.io/typescript-widget-templates/2d/)
 
 ## Installation:
 * Clone or download the repo.
